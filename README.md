@@ -27,6 +27,7 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
     </div>
  <!-- 📖 Education -->
+    <p><strong>📖 Education</strong></p>
     <div>
        <p>ITWILL 프로젝트 기반 자바 핀테크 웹 개발자 양성과정 (2023.05. ~ 2023.11.) </p>   
     </div>
