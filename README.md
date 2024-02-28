@@ -1,6 +1,7 @@
-## 🔨 Tech Stack
+<!-- 🔨 Tech Stack -->
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
- <!--  Tech Stack -->
+ <!-- 🔨Tech Stack -->
+    <p><strong>🔨Tech Stack</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
@@ -27,14 +28,15 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
     </div><br>
 </div>
-## 📖 Education
- <div style="display:flex;">
-  <!-- Education -->
-   <ul>
-    <li> 
+
+ <!-- 📖 Education -->
+ <ul>
+  <li> 
+   <div>
+     <p><strong>📖 Education</strong></p>
      <div>
-       <p>ITWILL 프로젝트 기반 자바 핀테크 웹 개발자 양성과정 (2023.05. ~ 2023.11.) </p>   
+      <p>ITWILL 프로젝트 기반 자바 핀테크 웹 개발자 양성과정 (2023.05. ~ 2023.11.) </p>   
      </div>
-    </li>
-   </ul>
-</div>
+   </div>
+  </li>
+ </ul>
