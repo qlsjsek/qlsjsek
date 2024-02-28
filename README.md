@@ -1,6 +1,6 @@
 ## Tech Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-
+ <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -14,17 +14,17 @@
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
         <img src="https://img.shields.io/badge/Ajax-007396?style=flat-square&logo=Ajax&logoColor=white"> 
     </div>
-
+ <!-- Backend -->
     <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
     </div>
-
+ <!-- Backend -->
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
     </div>
-
+ <!-- Backend -->
     <p><strong>Frontend</strong></p>
 
 </div>
