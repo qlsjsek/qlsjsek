@@ -28,7 +28,7 @@
     </div><br>
 </div>
  ## 📖 Education
- <div style="display:flex;>
+ <div style="display:flex;">
   <!-- 📖 Education -->
     <p><strong>📖 Education</strong></p>
     <div>
