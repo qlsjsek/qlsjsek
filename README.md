@@ -1,4 +1,4 @@
- 🔨 Tech Stack 🔨 
+## 🔨 Tech Stack 🔨 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
  <!--  Tech Stack -->
     <div>
@@ -27,7 +27,7 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
     </div><br>
 </div>
- ## 📖 Education 📖
+## 📖 Education 📖
  <div style="display:flex;">
   <!-- Education -->
    <ul>
