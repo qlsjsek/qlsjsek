@@ -28,7 +28,7 @@
     </div><br>
 </div>
  ## 📖 Education 📖
- <div style="display:flex; flex-direction:column; align-items:flex-start;">
+ <div style="display:flex;">
   <!-- Education -->
    <ul>
     <li> 
