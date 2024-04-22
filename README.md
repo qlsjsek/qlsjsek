@@ -54,3 +54,9 @@
     </a>
 </div>
 <br>
+
+## ⭐ Career ⭐
+<div style="display:flex; flex-direction:row;">
+ <p> PM그룹코리아(2024.04.01~) </p> 
+</div>
+<br>
