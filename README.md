@@ -58,6 +58,6 @@
 ## ⭐ Career ⭐
 <div style="display:flex; flex-direction:row;">
  <p> KB캐피탈 마이데이터 유지보수(2025.01 ~ 2025.06) </p>
- <p> 우리은행 New ONE뱅킹 구축(2024.06 ~ 2024.12) </p>
+ <p> 우리은행 New WON뱅킹 구축(2024.06 ~ 2024.12) </p>
 </div>
 <br>
